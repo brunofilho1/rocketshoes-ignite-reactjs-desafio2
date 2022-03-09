@@ -1,5 +1,5 @@
 
-# Adicionando, removendo e validando produtos com React
+# Rocketshoes
 
 ## 💻 Sobre o projeto
 
